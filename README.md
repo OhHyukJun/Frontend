@@ -6,6 +6,9 @@
   <br>
 </p>
 
+## 코드 리뷰
+https://www.notion.so/B-Get-Table-bb43c36cd9734dfaa28444d3bd599a82
+
 목차
 
 ## 프로젝트 소개
